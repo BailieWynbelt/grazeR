@@ -1,4 +1,6 @@
 # grazeR
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) [![lintr](https://github.com/amantaya/grazeR/actions/workflows/lintr.yml/badge.svg)](https://github.com/amantaya/grazeR/actions/workflows/lintr.yml)
+
 An R package for managing and analyzing data from grazing studies.
 
 ## Overview
@@ -18,7 +20,7 @@ Once we have a stable version of the package, we will submit it to CRAN.
 
 ## Project Status
 
-To see which features are currently being worked on, please see the [project board](@grazeR).
+To see which features are currently being worked on, please see the [project board](https://github.com/users/amantaya/projects/4/views/4?groupedBy%5BcolumnId%5D=Status).
 
 ## Contributing
 
