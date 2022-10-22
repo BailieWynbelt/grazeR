@@ -1,6 +1,6 @@
 # Welcome to the Contributing Guide for the `grazeR` R Package
 
-Please read our [Code of Conduct]() before contributing to this project. We want to ensure a welcoming and inclusive environment for all contributors.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project. We want to ensure a welcoming and inclusive environment for all contributors.
 
 In this guide, you will get an overview of how to contribute to the `grazeR` R package. This guide is intended for both new and experienced contributors.
 
@@ -16,12 +16,13 @@ If you are new to contributing to open source, and not sure where to start, we r
 ## How to Contribute
 
 We welcome all input and contributions to the `grazeR` R package. There are many ways to contribute to this project (not just code!), including:
-    - Reporting bugs
-    - Suggesting new features
-    - Improving documentation
-    - Fixing typos
-    - Submitting code
-    - Scientific validity of the methods
+
+- Reporting bugs
+- Suggesting new features
+- Improving documentation
+- Fixing typos
+- Submitting code
+- Scientific validity of the methods
 
 Please keep in mind that we are a small team of volunteers developing this R package. We will do our best to respond to your issue or pull request as soon as possible, but please be patient with us.
 
