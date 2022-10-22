@@ -44,7 +44,7 @@ Please include the following information in your bug report:
 
 ## Suggesting New Features
 
-If you have an idea for a new feature, please suggest it by posting to our [Discussions](https://github.com/amantaya/grazeR/discussions). We will review your suggestions and determine if they are within the scope of the project. If so, we will add them to the [project board](@grazeR).
+If you have an idea for a new feature, please suggest it by posting to our [Discussions](https://github.com/amantaya/grazeR/discussions). We will review your suggestions and determine if they are within the scope of the project. If so, we will add them to the [project board](https://github.com/users/amantaya/projects/4/views/4?groupedBy%5BcolumnId%5D=Status).
 
 ## Improving Documentation
 
