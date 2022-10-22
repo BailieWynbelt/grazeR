@@ -20,7 +20,7 @@ Once we have a stable version of the package, we will submit it to CRAN.
 
 ## Project Status
 
-To see which features are currently being worked on, please see the [project board](@grazeR).
+To see which features are currently being worked on, please see the [project board](https://github.com/users/amantaya/projects/4/views/4?groupedBy%5BcolumnId%5D=Status).
 
 ## Contributing
 
