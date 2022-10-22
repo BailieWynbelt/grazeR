@@ -1,4 +1,4 @@
-# Welcome to the Contributing Guide for the `grazeR` R Package
+# Contributing Guide for the `grazeR` R Package
 
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing to this project. We want to ensure a welcoming and inclusive environment for all contributors.
 
@@ -7,11 +7,12 @@ In this guide, you will get an overview of how to contribute to the `grazeR` R p
 ## New Contributors
 
 If you are new to contributing to open source, and not sure where to start, we recommend the following resources:
-    - [Github: Get Started](https://docs.github.com/en/get-started)
-    - [Github: Set Up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-    - [Github: Fork a Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-    - [Github: Create a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-    - [Github: Collaborating with Issues and Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
+
+- [Github: Get Started](https://docs.github.com/en/get-started)
+- [Github: Set Up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [Github: Fork a Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Github: Create a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- [Github: Collaborating with Issues and Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
 
 ## How to Contribute
 
@@ -35,14 +36,15 @@ First, please read the [README](README.md) to familiarize yourself with the proj
 If you find a bug, please report it by [opening an issue](https://github.com/amantaya/grazeR/issues). Please keep issues related to bugs, and use the [Discussions](https://github.com/amantaya/grazeR/discussions) for features and other discussions.
 
 Please include the following information in your bug report:
-    - The version of `grazeR` you are using
-    - The version of R you are using
-    - The operating system you are using
-    - A minimal reproducible example of the bug
+
+- The version of `grazeR` you are using
+- The version of R you are using
+- The operating system you are using
+- A minimal reproducible example of the bug
 
 ## Suggesting New Features
 
-If you have an idea for a new feature, please suggest it by posting to our [Discussions](https://github.com/amantaya/grazeR/discussions). We will review your suggestions and determine if they are within the scope of the project. If so, we will add them to the [project board](@grazeR).
+If you have an idea for a new feature, please suggest it by posting to our [Discussions](https://github.com/amantaya/grazeR/discussions). We will review your suggestions and determine if they are within the scope of the project. If so, we will add them to the [project board](https://github.com/users/amantaya/projects/4/views/4?groupedBy%5BcolumnId%5D=Status).
 
 ## Improving Documentation
 
